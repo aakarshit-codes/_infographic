@@ -1,0 +1,72 @@
+[
+  {
+    "country": "Uganda",
+    "year": 2019,
+    "depression": 6.58,
+    "anxiety": 4.08,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Palestine",
+    "year": 2019,
+    "depression": 6.2,
+    "anxiety": 5.55,
+    "bipolar": 0.79
+  },
+  {
+    "country": "Central African Republic",
+    "year": 2019,
+    "depression": 5.92,
+    "anxiety": 4.41,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Greenland",
+    "year": 2019,
+    "depression": 5.84,
+    "anxiety": 4.86,
+    "bipolar": 0.65
+  },
+  {
+    "country": "Angola",
+    "year": 2019,
+    "depression": 5.74,
+    "anxiety": 3.93,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Equatorial Guinea",
+    "year": 2019,
+    "depression": 5.73,
+    "anxiety": 3.8,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Gabon",
+    "year": 2019,
+    "depression": 5.55,
+    "anxiety": 3.99,
+    "bipolar": 0.56
+  },
+  {
+    "country": "Congo",
+    "year": 2019,
+    "depression": 5.53,
+    "anxiety": 3.74,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Lesotho",
+    "year": 2019,
+    "depression": 5.51,
+    "anxiety": 3.56,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Gambia",
+    "year": 2019,
+    "depression": 5.5,
+    "anxiety": 3.31,
+    "bipolar": 0.55
+  }
+]

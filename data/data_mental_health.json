@@ -1,0 +1,1500 @@
+[
+  {
+    "country": "Afghanistan",
+    "year": 2019,
+    "depression": 4.95,
+    "anxiety": 4.85,
+    "bipolar": 0.7
+  },
+  {
+    "country": "Africa (IHME GBD)",
+    "year": 2019,
+    "depression": 4.46,
+    "anxiety": 3.7,
+    "bipolar": 0.6
+  },
+  {
+    "country": "Albania",
+    "year": 2019,
+    "depression": 2.46,
+    "anxiety": 3.84,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Algeria",
+    "year": 2019,
+    "depression": 4.13,
+    "anxiety": 4.77,
+    "bipolar": 0.76
+  },
+  {
+    "country": "America (IHME GBD)",
+    "year": 2019,
+    "depression": 3.61,
+    "anxiety": 5.49,
+    "bipolar": 0.85
+  },
+  {
+    "country": "American Samoa",
+    "year": 2019,
+    "depression": 2.66,
+    "anxiety": 4.04,
+    "bipolar": 0.28
+  },
+  {
+    "country": "Andorra",
+    "year": 2019,
+    "depression": 3.61,
+    "anxiety": 5.45,
+    "bipolar": 0.93
+  },
+  {
+    "country": "Angola",
+    "year": 2019,
+    "depression": 5.74,
+    "anxiety": 3.93,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "year": 2019,
+    "depression": 3.03,
+    "anxiety": 4.33,
+    "bipolar": 0.94
+  },
+  {
+    "country": "Argentina",
+    "year": 2019,
+    "depression": 2.41,
+    "anxiety": 4.98,
+    "bipolar": 1.04
+  },
+  {
+    "country": "Armenia",
+    "year": 2019,
+    "depression": 2.98,
+    "anxiety": 3.15,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Asia (IHME GBD)",
+    "year": 2019,
+    "depression": 3.2,
+    "anxiety": 3.26,
+    "bipolar": 0.34
+  },
+  {
+    "country": "Australia",
+    "year": 2019,
+    "depression": 4.38,
+    "anxiety": 5.82,
+    "bipolar": 1.13
+  },
+  {
+    "country": "Austria",
+    "year": 2019,
+    "depression": 3.13,
+    "anxiety": 6.01,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Azerbaijan",
+    "year": 2019,
+    "depression": 2.75,
+    "anxiety": 2.48,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Bahamas",
+    "year": 2019,
+    "depression": 3.06,
+    "anxiety": 4.35,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Bahrain",
+    "year": 2019,
+    "depression": 4.53,
+    "anxiety": 4.94,
+    "bipolar": 0.78
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2019,
+    "depression": 4.62,
+    "anxiety": 3.18,
+    "bipolar": 0.39
+  },
+  {
+    "country": "Barbados",
+    "year": 2019,
+    "depression": 3.18,
+    "anxiety": 4.33,
+    "bipolar": 0.93
+  },
+  {
+    "country": "Belarus",
+    "year": 2019,
+    "depression": 3.82,
+    "anxiety": 3.48,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Belgium",
+    "year": 2019,
+    "depression": 3.54,
+    "anxiety": 5.05,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Belize",
+    "year": 2019,
+    "depression": 3.31,
+    "anxiety": 4.18,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Benin",
+    "year": 2019,
+    "depression": 4.45,
+    "anxiety": 3.23,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Bermuda",
+    "year": 2019,
+    "depression": 3.18,
+    "anxiety": 4.33,
+    "bipolar": 0.98
+  },
+  {
+    "country": "Bhutan",
+    "year": 2019,
+    "depression": 4.02,
+    "anxiety": 3.27,
+    "bipolar": 0.39
+  },
+  {
+    "country": "Bolivia",
+    "year": 2019,
+    "depression": 3.4,
+    "anxiety": 5.74,
+    "bipolar": 0.89
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "year": 2019,
+    "depression": 2.76,
+    "anxiety": 3.54,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Botswana",
+    "year": 2019,
+    "depression": 4.26,
+    "anxiety": 3.55,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Brazil",
+    "year": 2019,
+    "depression": 3.8,
+    "anxiety": 7.41,
+    "bipolar": 1.11
+  },
+  {
+    "country": "Brunei",
+    "year": 2019,
+    "depression": 1.6,
+    "anxiety": 2.86,
+    "bipolar": 0.61
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2019,
+    "depression": 2.69,
+    "anxiety": 3.4,
+    "bipolar": 0.47
+  },
+  {
+    "country": "Burkina Faso",
+    "year": 2019,
+    "depression": 4.38,
+    "anxiety": 3.12,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Burundi",
+    "year": 2019,
+    "depression": 4.71,
+    "anxiety": 3.64,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "depression": 2.95,
+    "anxiety": 4.58,
+    "bipolar": 0.32
+  },
+  {
+    "country": "Cameroon",
+    "year": 2019,
+    "depression": 4.6,
+    "anxiety": 3.2,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Canada",
+    "year": 2019,
+    "depression": 3.29,
+    "anxiety": 4.32,
+    "bipolar": 0.81
+  },
+  {
+    "country": "Cape Verde",
+    "year": 2019,
+    "depression": 4.84,
+    "anxiety": 3.09,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Central African Republic",
+    "year": 2019,
+    "depression": 5.92,
+    "anxiety": 4.41,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Chad",
+    "year": 2019,
+    "depression": 5.13,
+    "anxiety": 3.37,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Chile",
+    "year": 2019,
+    "depression": 3.64,
+    "anxiety": 5.46,
+    "bipolar": 1.0
+  },
+  {
+    "country": "China",
+    "year": 2019,
+    "depression": 2.72,
+    "anxiety": 3.16,
+    "bipolar": 0.18
+  },
+  {
+    "country": "Colombia",
+    "year": 2019,
+    "depression": 2.22,
+    "anxiety": 4.7,
+    "bipolar": 0.74
+  },
+  {
+    "country": "Comoros",
+    "year": 2019,
+    "depression": 4.26,
+    "anxiety": 3.55,
+    "bipolar": 0.61
+  },
+  {
+    "country": "Congo",
+    "year": 2019,
+    "depression": 5.53,
+    "anxiety": 3.74,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Cook Islands",
+    "year": 2019,
+    "depression": 3.16,
+    "anxiety": 4.09,
+    "bipolar": 0.28
+  },
+  {
+    "country": "Costa Rica",
+    "year": 2019,
+    "depression": 3.21,
+    "anxiety": 4.2,
+    "bipolar": 0.87
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "year": 2019,
+    "depression": 3.94,
+    "anxiety": 3.24,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Croatia",
+    "year": 2019,
+    "depression": 3.01,
+    "anxiety": 3.6,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Cuba",
+    "year": 2019,
+    "depression": 3.8,
+    "anxiety": 4.25,
+    "bipolar": 0.95
+  },
+  {
+    "country": "Cyprus",
+    "year": 2019,
+    "depression": 3.11,
+    "anxiety": 6.47,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Czechia",
+    "year": 2019,
+    "depression": 2.88,
+    "anxiety": 3.15,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "year": 2019,
+    "depression": 5.44,
+    "anxiety": 3.82,
+    "bipolar": 0.56
+  },
+  {
+    "country": "Denmark",
+    "year": 2019,
+    "depression": 3.48,
+    "anxiety": 4.87,
+    "bipolar": 0.94
+  },
+  {
+    "country": "Djibouti",
+    "year": 2019,
+    "depression": 4.46,
+    "anxiety": 3.25,
+    "bipolar": 0.61
+  },
+  {
+    "country": "Dominica",
+    "year": 2019,
+    "depression": 3.08,
+    "anxiety": 4.28,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Dominican Republic",
+    "year": 2019,
+    "depression": 3.82,
+    "anxiety": 4.5,
+    "bipolar": 0.91
+  },
+  {
+    "country": "East Timor",
+    "year": 2019,
+    "depression": 2.8,
+    "anxiety": 3.8,
+    "bipolar": 0.32
+  },
+  {
+    "country": "Ecuador",
+    "year": 2019,
+    "depression": 3.33,
+    "anxiety": 5.23,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Egypt",
+    "year": 2019,
+    "depression": 3.94,
+    "anxiety": 4.59,
+    "bipolar": 0.72
+  },
+  {
+    "country": "El Salvador",
+    "year": 2019,
+    "depression": 3.41,
+    "anxiety": 4.41,
+    "bipolar": 0.83
+  },
+  {
+    "country": "Equatorial Guinea",
+    "year": 2019,
+    "depression": 5.73,
+    "anxiety": 3.8,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Eritrea",
+    "year": 2019,
+    "depression": 4.84,
+    "anxiety": 3.73,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Estonia",
+    "year": 2019,
+    "depression": 3.69,
+    "anxiety": 3.38,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Eswatini",
+    "year": 2019,
+    "depression": 4.43,
+    "anxiety": 3.49,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Ethiopia",
+    "year": 2019,
+    "depression": 4.65,
+    "anxiety": 3.47,
+    "bipolar": 0.61
+  },
+  {
+    "country": "Europe (IHME GBD)",
+    "year": 2019,
+    "depression": 3.54,
+    "anxiety": 4.56,
+    "bipolar": 0.74
+  },
+  {
+    "country": "European Union (27)",
+    "year": 2019,
+    "depression": 3.61,
+    "anxiety": 5.16,
+    "bipolar": 0.83
+  },
+  {
+    "country": "Fiji",
+    "year": 2019,
+    "depression": 2.92,
+    "anxiety": 4.04,
+    "bipolar": 0.27
+  },
+  {
+    "country": "Finland",
+    "year": 2019,
+    "depression": 4.14,
+    "anxiety": 3.99,
+    "bipolar": 0.89
+  },
+  {
+    "country": "France",
+    "year": 2019,
+    "depression": 3.84,
+    "anxiety": 6.27,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Gabon",
+    "year": 2019,
+    "depression": 5.55,
+    "anxiety": 3.99,
+    "bipolar": 0.56
+  },
+  {
+    "country": "Gambia",
+    "year": 2019,
+    "depression": 5.5,
+    "anxiety": 3.31,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Georgia",
+    "year": 2019,
+    "depression": 3.32,
+    "anxiety": 2.5,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Germany",
+    "year": 2019,
+    "depression": 3.38,
+    "anxiety": 6.21,
+    "bipolar": 0.75
+  },
+  {
+    "country": "Ghana",
+    "year": 2019,
+    "depression": 4.36,
+    "anxiety": 3.0,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Greece",
+    "year": 2019,
+    "depression": 5.04,
+    "anxiety": 5.78,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Greenland",
+    "year": 2019,
+    "depression": 5.84,
+    "anxiety": 4.86,
+    "bipolar": 0.65
+  },
+  {
+    "country": "Grenada",
+    "year": 2019,
+    "depression": 3.23,
+    "anxiety": 4.28,
+    "bipolar": 0.92
+  },
+  {
+    "country": "Guam",
+    "year": 2019,
+    "depression": 3.2,
+    "anxiety": 4.01,
+    "bipolar": 0.28
+  },
+  {
+    "country": "Guatemala",
+    "year": 2019,
+    "depression": 3.67,
+    "anxiety": 4.26,
+    "bipolar": 0.8
+  },
+  {
+    "country": "Guinea",
+    "year": 2019,
+    "depression": 4.37,
+    "anxiety": 3.34,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Guinea-Bissau",
+    "year": 2019,
+    "depression": 4.49,
+    "anxiety": 3.09,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Guyana",
+    "year": 2019,
+    "depression": 4.93,
+    "anxiety": 4.38,
+    "bipolar": 0.87
+  },
+  {
+    "country": "Haiti",
+    "year": 2019,
+    "depression": 3.64,
+    "anxiety": 4.64,
+    "bipolar": 0.84
+  },
+  {
+    "country": "High-income countries",
+    "year": 2019,
+    "depression": 3.64,
+    "anxiety": 4.89,
+    "bipolar": 0.74
+  },
+  {
+    "country": "Honduras",
+    "year": 2019,
+    "depression": 3.16,
+    "anxiety": 4.09,
+    "bipolar": 0.81
+  },
+  {
+    "country": "Hungary",
+    "year": 2019,
+    "depression": 2.82,
+    "anxiety": 3.41,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Iceland",
+    "year": 2019,
+    "depression": 2.94,
+    "anxiety": 5.1,
+    "bipolar": 0.91
+  },
+  {
+    "country": "India",
+    "year": 2019,
+    "depression": 3.66,
+    "anxiety": 2.97,
+    "bipolar": 0.35
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "depression": 2.42,
+    "anxiety": 3.55,
+    "bipolar": 0.33
+  },
+  {
+    "country": "Iran",
+    "year": 2019,
+    "depression": 4.86,
+    "anxiety": 7.27,
+    "bipolar": 0.82
+  },
+  {
+    "country": "Iraq",
+    "year": 2019,
+    "depression": 3.93,
+    "anxiety": 5.34,
+    "bipolar": 0.68
+  },
+  {
+    "country": "Ireland",
+    "year": 2019,
+    "depression": 4.22,
+    "anxiety": 6.91,
+    "bipolar": 0.7
+  },
+  {
+    "country": "Israel",
+    "year": 2019,
+    "depression": 4.13,
+    "anxiety": 3.74,
+    "bipolar": 1.05
+  },
+  {
+    "country": "Italy",
+    "year": 2019,
+    "depression": 3.56,
+    "anxiety": 5.56,
+    "bipolar": 0.89
+  },
+  {
+    "country": "Jamaica",
+    "year": 2019,
+    "depression": 3.06,
+    "anxiety": 4.05,
+    "bipolar": 0.94
+  },
+  {
+    "country": "Japan",
+    "year": 2019,
+    "depression": 2.1,
+    "anxiety": 2.32,
+    "bipolar": 0.64
+  },
+  {
+    "country": "Jordan",
+    "year": 2019,
+    "depression": 4.15,
+    "anxiety": 4.93,
+    "bipolar": 0.78
+  },
+  {
+    "country": "Kazakhstan",
+    "year": 2019,
+    "depression": 3.44,
+    "anxiety": 2.12,
+    "bipolar": 0.51
+  },
+  {
+    "country": "Kenya",
+    "year": 2019,
+    "depression": 4.72,
+    "anxiety": 3.42,
+    "bipolar": 0.6
+  },
+  {
+    "country": "Kiribati",
+    "year": 2019,
+    "depression": 2.97,
+    "anxiety": 4.1,
+    "bipolar": 0.26
+  },
+  {
+    "country": "Kuwait",
+    "year": 2019,
+    "depression": 4.06,
+    "anxiety": 4.6,
+    "bipolar": 0.81
+  },
+  {
+    "country": "Kyrgyzstan",
+    "year": 2019,
+    "depression": 3.38,
+    "anxiety": 2.06,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "depression": 2.75,
+    "anxiety": 4.57,
+    "bipolar": 0.32
+  },
+  {
+    "country": "Latvia",
+    "year": 2019,
+    "depression": 3.75,
+    "anxiety": 3.75,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Lebanon",
+    "year": 2019,
+    "depression": 4.65,
+    "anxiety": 6.05,
+    "bipolar": 0.94
+  },
+  {
+    "country": "Lesotho",
+    "year": 2019,
+    "depression": 5.51,
+    "anxiety": 3.56,
+    "bipolar": 0.53
+  },
+  {
+    "country": "Liberia",
+    "year": 2019,
+    "depression": 4.56,
+    "anxiety": 3.51,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Libya",
+    "year": 2019,
+    "depression": 4.41,
+    "anxiety": 5.32,
+    "bipolar": 0.77
+  },
+  {
+    "country": "Lithuania",
+    "year": 2019,
+    "depression": 3.99,
+    "anxiety": 4.25,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Low-income countries",
+    "year": 2019,
+    "depression": 4.66,
+    "anxiety": 3.68,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Lower-middle-income countries",
+    "year": 2019,
+    "depression": 3.61,
+    "anxiety": 3.33,
+    "bipolar": 0.42
+  },
+  {
+    "country": "Luxembourg",
+    "year": 2019,
+    "depression": 3.22,
+    "anxiety": 5.28,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Madagascar",
+    "year": 2019,
+    "depression": 4.74,
+    "anxiety": 3.96,
+    "bipolar": 0.6
+  },
+  {
+    "country": "Malawi",
+    "year": 2019,
+    "depression": 4.1,
+    "anxiety": 3.85,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Malaysia",
+    "year": 2019,
+    "depression": 3.66,
+    "anxiety": 4.6,
+    "bipolar": 0.34
+  },
+  {
+    "country": "Maldives",
+    "year": 2019,
+    "depression": 2.91,
+    "anxiety": 3.58,
+    "bipolar": 0.34
+  },
+  {
+    "country": "Mali",
+    "year": 2019,
+    "depression": 3.54,
+    "anxiety": 2.73,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Malta",
+    "year": 2019,
+    "depression": 3.13,
+    "anxiety": 6.25,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Marshall Islands",
+    "year": 2019,
+    "depression": 2.89,
+    "anxiety": 4.02,
+    "bipolar": 0.27
+  },
+  {
+    "country": "Mauritania",
+    "year": 2019,
+    "depression": 3.66,
+    "anxiety": 2.75,
+    "bipolar": 0.56
+  },
+  {
+    "country": "Mauritius",
+    "year": 2019,
+    "depression": 3.8,
+    "anxiety": 3.82,
+    "bipolar": 0.34
+  },
+  {
+    "country": "Mexico",
+    "year": 2019,
+    "depression": 3.54,
+    "anxiety": 3.51,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Micronesia (country)",
+    "year": 2019,
+    "depression": 2.91,
+    "anxiety": 4.03,
+    "bipolar": 0.26
+  },
+  {
+    "country": "Moldova",
+    "year": 2019,
+    "depression": 3.22,
+    "anxiety": 4.08,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Monaco",
+    "year": 2019,
+    "depression": 4.06,
+    "anxiety": 5.5,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Mongolia",
+    "year": 2019,
+    "depression": 3.96,
+    "anxiety": 2.14,
+    "bipolar": 0.5
+  },
+  {
+    "country": "Montenegro",
+    "year": 2019,
+    "depression": 2.82,
+    "anxiety": 3.66,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Morocco",
+    "year": 2019,
+    "depression": 5.08,
+    "anxiety": 4.8,
+    "bipolar": 0.75
+  },
+  {
+    "country": "Mozambique",
+    "year": 2019,
+    "depression": 4.99,
+    "anxiety": 4.04,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "depression": 2.19,
+    "anxiety": 3.98,
+    "bipolar": 0.32
+  },
+  {
+    "country": "Namibia",
+    "year": 2019,
+    "depression": 3.62,
+    "anxiety": 3.49,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Nauru",
+    "year": 2019,
+    "depression": 3.15,
+    "anxiety": 4.06,
+    "bipolar": 0.26
+  },
+  {
+    "country": "Nepal",
+    "year": 2019,
+    "depression": 4.9,
+    "anxiety": 3.28,
+    "bipolar": 0.38
+  },
+  {
+    "country": "Netherlands",
+    "year": 2019,
+    "depression": 3.53,
+    "anxiety": 6.75,
+    "bipolar": 0.79
+  },
+  {
+    "country": "New Zealand",
+    "year": 2019,
+    "depression": 3.72,
+    "anxiety": 7.26,
+    "bipolar": 1.51
+  },
+  {
+    "country": "Nicaragua",
+    "year": 2019,
+    "depression": 3.25,
+    "anxiety": 4.37,
+    "bipolar": 0.85
+  },
+  {
+    "country": "Niger",
+    "year": 2019,
+    "depression": 4.24,
+    "anxiety": 2.97,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Nigeria",
+    "year": 2019,
+    "depression": 3.82,
+    "anxiety": 2.99,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Niue",
+    "year": 2019,
+    "depression": 3.14,
+    "anxiety": 4.02,
+    "bipolar": 0.28
+  },
+  {
+    "country": "North Korea",
+    "year": 2019,
+    "depression": 2.68,
+    "anxiety": 3.61,
+    "bipolar": 0.18
+  },
+  {
+    "country": "North Macedonia",
+    "year": 2019,
+    "depression": 2.57,
+    "anxiety": 3.59,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "year": 2019,
+    "depression": 2.78,
+    "anxiety": 4.0,
+    "bipolar": 0.28
+  },
+  {
+    "country": "Norway",
+    "year": 2019,
+    "depression": 3.24,
+    "anxiety": 6.74,
+    "bipolar": 0.83
+  },
+  {
+    "country": "Oman",
+    "year": 2019,
+    "depression": 3.96,
+    "anxiety": 4.61,
+    "bipolar": 0.69
+  },
+  {
+    "country": "Pakistan",
+    "year": 2019,
+    "depression": 3.94,
+    "anxiety": 3.47,
+    "bipolar": 0.39
+  },
+  {
+    "country": "Palau",
+    "year": 2019,
+    "depression": 3.09,
+    "anxiety": 3.95,
+    "bipolar": 0.27
+  },
+  {
+    "country": "Palestine",
+    "year": 2019,
+    "depression": 6.2,
+    "anxiety": 5.55,
+    "bipolar": 0.79
+  },
+  {
+    "country": "Panama",
+    "year": 2019,
+    "depression": 2.94,
+    "anxiety": 3.66,
+    "bipolar": 0.85
+  },
+  {
+    "country": "Papua New Guinea",
+    "year": 2019,
+    "depression": 3.07,
+    "anxiety": 4.0,
+    "bipolar": 0.26
+  },
+  {
+    "country": "Paraguay",
+    "year": 2019,
+    "depression": 3.69,
+    "anxiety": 6.3,
+    "bipolar": 1.09
+  },
+  {
+    "country": "Peru",
+    "year": 2019,
+    "depression": 2.21,
+    "anxiety": 5.55,
+    "bipolar": 0.92
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "depression": 2.78,
+    "anxiety": 4.56,
+    "bipolar": 0.34
+  },
+  {
+    "country": "Poland",
+    "year": 2019,
+    "depression": 2.28,
+    "anxiety": 3.08,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Portugal",
+    "year": 2019,
+    "depression": 4.39,
+    "anxiety": 8.03,
+    "bipolar": 0.87
+  },
+  {
+    "country": "Puerto Rico",
+    "year": 2019,
+    "depression": 2.88,
+    "anxiety": 4.44,
+    "bipolar": 0.95
+  },
+  {
+    "country": "Qatar",
+    "year": 2019,
+    "depression": 3.95,
+    "anxiety": 4.26,
+    "bipolar": 0.74
+  },
+  {
+    "country": "Romania",
+    "year": 2019,
+    "depression": 2.65,
+    "anxiety": 3.29,
+    "bipolar": 0.64
+  },
+  {
+    "country": "Russia",
+    "year": 2019,
+    "depression": 3.08,
+    "anxiety": 3.13,
+    "bipolar": 0.51
+  },
+  {
+    "country": "Rwanda",
+    "year": 2019,
+    "depression": 5.1,
+    "anxiety": 3.65,
+    "bipolar": 0.59
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "year": 2019,
+    "depression": 3.93,
+    "anxiety": 4.31,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Saint Lucia",
+    "year": 2019,
+    "depression": 3.32,
+    "anxiety": 4.31,
+    "bipolar": 0.92
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "year": 2019,
+    "depression": 3.37,
+    "anxiety": 4.3,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Samoa",
+    "year": 2019,
+    "depression": 2.8,
+    "anxiety": 4.03,
+    "bipolar": 0.27
+  },
+  {
+    "country": "San Marino",
+    "year": 2019,
+    "depression": 4.09,
+    "anxiety": 5.54,
+    "bipolar": 0.92
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "year": 2019,
+    "depression": 3.71,
+    "anxiety": 3.08,
+    "bipolar": 0.56
+  },
+  {
+    "country": "Saudi Arabia",
+    "year": 2019,
+    "depression": 4.22,
+    "anxiety": 4.55,
+    "bipolar": 0.76
+  },
+  {
+    "country": "Senegal",
+    "year": 2019,
+    "depression": 4.03,
+    "anxiety": 2.89,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Serbia",
+    "year": 2019,
+    "depression": 2.81,
+    "anxiety": 3.34,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Seychelles",
+    "year": 2019,
+    "depression": 2.64,
+    "anxiety": 3.74,
+    "bipolar": 0.33
+  },
+  {
+    "country": "Sierra Leone",
+    "year": 2019,
+    "depression": 4.39,
+    "anxiety": 3.66,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Singapore",
+    "year": 2019,
+    "depression": 2.01,
+    "anxiety": 2.71,
+    "bipolar": 0.72
+  },
+  {
+    "country": "Slovakia",
+    "year": 2019,
+    "depression": 2.7,
+    "anxiety": 3.43,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Slovenia",
+    "year": 2019,
+    "depression": 3.12,
+    "anxiety": 3.39,
+    "bipolar": 0.55
+  },
+  {
+    "country": "Solomon Islands",
+    "year": 2019,
+    "depression": 3.0,
+    "anxiety": 4.03,
+    "bipolar": 0.25
+  },
+  {
+    "country": "Somalia",
+    "year": 2019,
+    "depression": 4.85,
+    "anxiety": 3.27,
+    "bipolar": 0.58
+  },
+  {
+    "country": "South Africa",
+    "year": 2019,
+    "depression": 4.3,
+    "anxiety": 3.79,
+    "bipolar": 0.56
+  },
+  {
+    "country": "South Korea",
+    "year": 2019,
+    "depression": 2.09,
+    "anxiety": 3.22,
+    "bipolar": 0.5
+  },
+  {
+    "country": "South Sudan",
+    "year": 2019,
+    "depression": 4.75,
+    "anxiety": 4.98,
+    "bipolar": 0.61
+  },
+  {
+    "country": "Spain",
+    "year": 2019,
+    "depression": 4.7,
+    "anxiety": 4.86,
+    "bipolar": 0.92
+  },
+  {
+    "country": "Sri Lanka",
+    "year": 2019,
+    "depression": 2.87,
+    "anxiety": 4.04,
+    "bipolar": 0.34
+  },
+  {
+    "country": "Sudan",
+    "year": 2019,
+    "depression": 4.42,
+    "anxiety": 4.75,
+    "bipolar": 0.73
+  },
+  {
+    "country": "Suriname",
+    "year": 2019,
+    "depression": 4.69,
+    "anxiety": 4.14,
+    "bipolar": 0.9
+  },
+  {
+    "country": "Sweden",
+    "year": 2019,
+    "depression": 4.12,
+    "anxiety": 4.8,
+    "bipolar": 0.97
+  },
+  {
+    "country": "Switzerland",
+    "year": 2019,
+    "depression": 3.71,
+    "anxiety": 6.79,
+    "bipolar": 0.94
+  },
+  {
+    "country": "Syria",
+    "year": 2019,
+    "depression": 4.13,
+    "anxiety": 5.61,
+    "bipolar": 0.77
+  },
+  {
+    "country": "Taiwan",
+    "year": 2019,
+    "depression": 2.56,
+    "anxiety": 3.67,
+    "bipolar": 0.19
+  },
+  {
+    "country": "Tajikistan",
+    "year": 2019,
+    "depression": 2.82,
+    "anxiety": 2.4,
+    "bipolar": 0.52
+  },
+  {
+    "country": "Tanzania",
+    "year": 2019,
+    "depression": 4.65,
+    "anxiety": 3.81,
+    "bipolar": 0.59
+  },
+  {
+    "country": "Thailand",
+    "year": 2019,
+    "depression": 2.85,
+    "anxiety": 3.4,
+    "bipolar": 0.33
+  },
+  {
+    "country": "Togo",
+    "year": 2019,
+    "depression": 4.5,
+    "anxiety": 3.59,
+    "bipolar": 0.54
+  },
+  {
+    "country": "Tokelau",
+    "year": 2019,
+    "depression": 3.12,
+    "anxiety": 4.0,
+    "bipolar": 0.27
+  },
+  {
+    "country": "Tonga",
+    "year": 2019,
+    "depression": 2.69,
+    "anxiety": 4.06,
+    "bipolar": 0.28
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "year": 2019,
+    "depression": 3.83,
+    "anxiety": 3.87,
+    "bipolar": 0.91
+  },
+  {
+    "country": "Tunisia",
+    "year": 2019,
+    "depression": 5.05,
+    "anxiety": 5.16,
+    "bipolar": 0.79
+  },
+  {
+    "country": "Turkey",
+    "year": 2019,
+    "depression": 3.94,
+    "anxiety": 4.51,
+    "bipolar": 0.8
+  },
+  {
+    "country": "Turkmenistan",
+    "year": 2019,
+    "depression": 3.05,
+    "anxiety": 2.34,
+    "bipolar": 0.51
+  },
+  {
+    "country": "Tuvalu",
+    "year": 2019,
+    "depression": 3.13,
+    "anxiety": 4.01,
+    "bipolar": 0.27
+  },
+  {
+    "country": "Uganda",
+    "year": 2019,
+    "depression": 6.58,
+    "anxiety": 4.08,
+    "bipolar": 0.58
+  },
+  {
+    "country": "Ukraine",
+    "year": 2019,
+    "depression": 3.9,
+    "anxiety": 3.13,
+    "bipolar": 0.52
+  },
+  {
+    "country": "United Arab Emirates",
+    "year": 2019,
+    "depression": 3.58,
+    "anxiety": 4.24,
+    "bipolar": 0.75
+  },
+  {
+    "country": "United Kingdom",
+    "year": 2019,
+    "depression": 4.1,
+    "anxiety": 4.46,
+    "bipolar": 1.09
+  },
+  {
+    "country": "United States",
+    "year": 2019,
+    "depression": 4.38,
+    "anxiety": 5.7,
+    "bipolar": 0.6
+  },
+  {
+    "country": "United States Virgin Islands",
+    "year": 2019,
+    "depression": 3.36,
+    "anxiety": 4.37,
+    "bipolar": 0.92
+  },
+  {
+    "country": "Upper-middle-income countries",
+    "year": 2019,
+    "depression": 3.13,
+    "anxiety": 3.93,
+    "bipolar": 0.46
+  },
+  {
+    "country": "Uruguay",
+    "year": 2019,
+    "depression": 2.84,
+    "anxiety": 5.15,
+    "bipolar": 0.98
+  },
+  {
+    "country": "Uzbekistan",
+    "year": 2019,
+    "depression": 3.16,
+    "anxiety": 2.03,
+    "bipolar": 0.51
+  },
+  {
+    "country": "Vanuatu",
+    "year": 2019,
+    "depression": 2.97,
+    "anxiety": 4.03,
+    "bipolar": 0.27
+  },
+  {
+    "country": "Venezuela",
+    "year": 2019,
+    "depression": 3.21,
+    "anxiety": 4.0,
+    "bipolar": 0.83
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "depression": 2.47,
+    "anxiety": 2.29,
+    "bipolar": 0.34
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "depression": 3.44,
+    "anxiety": 3.78,
+    "bipolar": 0.49
+  },
+  {
+    "country": "Yemen",
+    "year": 2019,
+    "depression": 4.9,
+    "anxiety": 4.78,
+    "bipolar": 0.73
+  },
+  {
+    "country": "Zambia",
+    "year": 2019,
+    "depression": 4.22,
+    "anxiety": 3.97,
+    "bipolar": 0.57
+  },
+  {
+    "country": "Zimbabwe",
+    "year": 2019,
+    "depression": 3.4,
+    "anxiety": 3.14,
+    "bipolar": 0.54
+  }
+]

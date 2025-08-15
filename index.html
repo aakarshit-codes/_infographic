@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mental Health Infographic</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+  <!-- Header -->
+  <header class="bg-blue-600 text-white py-6 shadow-md">
+    <div class="max-w-6xl mx-auto text-center">
+      <h1 class="text-3xl font-bold">Global Mental Health Overview</h1>
+      <p class="text-blue-100 mt-2">A snapshot of depression, anxiety, and bipolar disorder prevalence worldwide</p>
+    </div>
+  </header>
+
+  <!-- Intro Counters -->
+  <section class="max-w-6xl mx-auto py-10 px-4 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+    <div>
+      <h2 class="text-4xl font-bold text-blue-600" id="depression-counter">0%</h2>
+      <p class="mt-2">Global Depression Rate</p>
+    </div>
+    <div>
+      <h2 class="text-4xl font-bold text-green-600" id="anxiety-counter">0%</h2>
+      <p class="mt-2">Global Anxiety Rate</p>
+    </div>
+    <div>
+      <h2 class="text-4xl font-bold text-purple-600" id="bipolar-counter">0%</h2>
+      <p class="mt-2">Global Bipolar Rate</p>
+    </div>
+  </section>
+
+  <!-- Top 10 Depression Chart -->
+  <section class="max-w-7xl mx-auto py-10 px-4">
+    <h2 class="text-2xl font-bold text-center mb-6">Top 10 Countries by Depression Rate</h2>
+    <canvas id="depressionChart"></canvas>
+  </section>
+
+  <!-- Global Depression Trend -->
+  <section class="max-w-6xl mx-auto py-10 px-4">
+    <h2 class="text-2xl font-bold text-center mb-6">Global Depression Rate Over Time</h2>
+    <canvas id="globalTrendChart"></canvas>
+  </section>
+
+  <!-- Impact Factors Section -->
+  <section class="max-w-6xl mx-auto py-10 px-4">
+    <h2 class="text-2xl font-bold text-center mb-8">Key Impact Factors on Mental Health</h2>
+    <div class="grid gap-6 md:grid-cols-3">
+      <div class="impact-card opacity-0 transform translate-y-6 bg-white p-6 shadow-md rounded-lg">
+        <h3 class="text-lg font-semibold text-blue-600 mb-2">Economic Stress</h3>
+        <p class="text-gray-600">High unemployment and financial instability contribute to rising depression rates
+          globally.</p>
+      </div>
+      <div class="impact-card opacity-0 transform translate-y-6 bg-white p-6 shadow-md rounded-lg">
+        <h3 class="text-lg font-semibold text-green-600 mb-2">Social Isolation</h3>
+        <p class="text-gray-600">Loneliness and lack of social support are linked to increased anxiety and depressive
+          disorders.</p>
+      </div>
+      <div class="impact-card opacity-0 transform translate-y-6 bg-white p-6 shadow-md rounded-lg">
+        <h3 class="text-lg font-semibold text-purple-600 mb-2">Access to Care</h3>
+        <p class="text-gray-600">Limited mental health services prevent early diagnosis and treatment in many regions.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-gray-300 py-6 mt-10">
+    <div class="max-w-6xl mx-auto text-center text-sm">
+      <p>Data Source: <a href="https://www.kaggle.com/datasets/imtkaggleteam/mental-health" target="_blank"
+          class="text-blue-400 hover:underline">Kaggle - Mental Health Dataset</a></p>
+      <p class="mt-2">&copy; 2025 Mental Health Infographic. Built with TailwindCSS & Chart.js</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="js/main.js" type="module"></script>
+</body>
+
+</html>
+
+</html>
