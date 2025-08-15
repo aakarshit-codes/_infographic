@@ -1,45 +1,54 @@
-# Interactive Infographics: Mental Health & Depression
+# Global Mental Health Infographic
 
-An interactive web-based project visualizing global trends in mental health and depression using engaging charts, tooltips, and scroll effects.
+An interactive, data-driven infographic visualizing the prevalence of depression, anxiety, and bipolar disorder worldwide using **Chart.js**, **TailwindCSS**, and **JavaScript (ES2023+)**.
 
-## Features
-- Interactive charts and infographics
-- Smooth scroll-based effects
-- Tooltips for detailed data insights
-- Modular code structure (separate JS, CSS, and data files)
+## 📊 Features
+
+- **Animated Counters**: Display global averages for key mental health disorders.
+- **Top 10 Countries Bar Chart**: Ranks nations by depression prevalence.
+- **Global Trend Line Chart**: Shows average depression rate over time.
+- **Scroll-Triggered Impact Cards**: Highlights key factors affecting mental health.
+- **Custom Tooltips**: Adds rich, contextual hover info to charts.
+- **Fully Responsive**: Works on mobile, tablet, and desktop.
+
+## 📊 Dataset
+
+- [mental-health (Kaggle)](https://www.kaggle.com/datasets/imtkaggleteam/mental-health)
+- Cleaned & processed JSON files included in `/data` folder:
+  - `mental_health_latest.json` — Latest year snapshot
+  - `top10_depression_latest.json` — Top 10 countries by depression rate
+  - `global_depression_trend.json` — Global average depression rates over time
+
+
+## 🛠️ Tech Stack
+
+- **HTML5** + **TailwindCSS** (styling)
+- **JavaScript (ES2023+)**
+- **Chart.js** for interactive data visualizations
+- **IntersectionObserver API** for scroll animations
 
 ## Demo
 Open `index.html` in your browser to view the infographics.
 
-## Folder Structure
+## 📆 Project Structure
+
 ```
-index.html                # Main HTML file
-css/
-	style.css               # Stylesheet
-js/
-	main.js                 # Main script
-	charts.js               # Chart rendering logic
-	dataHandler.js          # Data loading and processing
-	scrollEffects.js        # Scroll-based animations
-	tooltips.js             # Tooltip logic
-data/
-	data_depression.json    # Depression statistics
-	data_global_depression_trend.json  # Global depression trends
-	data_mental_health.json # Mental health data
+final-project/
+├── css/
+│   └── style.css
+├── data/
+│   ├── mental_health_latest.json
+│   ├── top10_depression_latest.json
+│   └── global_depression_trend.json
+├── js/
+│   └── main.js
+└── index.html
 ```
 
 ## Getting Started
 1. Clone or download this repository.
 2. Open `index.html` in your preferred web browser.
 3. No build steps or server required.
-
-## Data Sources
-- All data files are in the `data/` folder.
-- Data is sourced from https://www.kaggle.com/datasets/imtkaggleteam/mental-health.
-
-## Usage
-- Scroll through the page to see animated infographics.
-- Hover over chart elements to view tooltips with more information.
 
 ## Customization
 - To update data, replace or edit the JSON files in the `data/` folder.
